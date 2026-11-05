@@ -1,35 +1,66 @@
-# NumPy Basics with Python 🧮
+# 🐍 NumPy & Pandas – Python Data Analysis
 
-This repository contains my learning notes and hands-on practice with **NumPy**, a Python library used for numerical computing and working with arrays.
+## 📌 Overview
 
-## 📚 Topics Covered
+This repository contains my learning notes, practice exercises, and code implementations using NumPy and Pandas.
 
-- Introduction to NumPy and NumPy arrays
-- Python lists vs NumPy arrays
-- Array creation: `zeros()`, `ones()`, `eye()`, `full()`, `arange()`, `linspace()`
-- Array attributes: `shape`, `size`, `ndim`, `dtype`, `nbytes`
-- Indexing and slicing
-- Fancy indexing and Boolean indexing
-- Reshaping and flattening arrays
-- Data types and type conversion using `astype()`
-- Copy vs view
-- Working with 1D and 2D arrays
-- Introduction to 3D arrays and RGB image representation
-- Basic performance and memory comparisons
-- Vectorization and broadcasting
+It focuses on numerical computing, array manipulation, data handling, and data preprocessing using Python.
 
-## 🛠️ Tools Used
-
+## 🛠️ Technologies Used
 - Python
 - NumPy
+- Pandas
 - Jupyter Notebook
 
-## 🎯 Purpose
+## 1. NumPy – Completed ✅
 
-I created this notebook to strengthen my Python fundamentals and build a foundation for **Data Science, Machine Learning, and Generative AI**.
+### Concepts Covered
+- Array creation and attributes
+- 1D, 2D and 3D arrays
+- Array indexing and slicing
+- Array reshaping and manipulation
+- Axes and dimensions
+- Mathematical and numerical operations
+- Aggregation functions
 
-## 📈 Progress
+### Functions Practiced
+`np.array()` | `np.zeros()` | `np.ones()` | `np.arange()` | `np.linspace()` | `np.reshape()` | `np.sum()` | `np.mean()` | `np.max()` | `np.min()` | `np.sort()`
 
-Currently learning NumPy through hands-on coding and practical examples. This repository will be updated as I explore more concepts.
+## 2. Pandas – In Progress 🔄
 
-⭐ This is part of my ongoing journey toward becoming an AI Engineer.
+### Concepts to Learn
+- Series and DataFrames
+- Reading and inspecting datasets
+- Data selection, indexing and filtering
+- Sorting and data manipulation
+- Handling missing values and duplicates
+- Data cleaning and preprocessing
+- Grouping and aggregation
+- Merging and combining datasets
+- Working with CSV files
+
+## 🎯 Learning Objectives
+
+- Develop numerical computing skills.
+- Understand structured data manipulation.
+- Practice data cleaning and preprocessing.
+- Work with real-world datasets.
+- Build a foundation for Exploratory Data Analysis (EDA).
+
+## 📈 Learning Progress
+
+- [x] NumPy Fundamentals
+- [x] Array Manipulation and Operations
+- [x] Axes and Multidimensional Arrays
+- [ ] Pandas Fundamentals
+- [ ] Data Manipulation and Filtering
+- [ ] Data Cleaning and Preprocessing
+- [ ] Grouping and Aggregation
+- [ ] Practical Dataset Analysis
+
+## 🚀 Next Step
+
+Combine NumPy and Pandas with Matplotlib and Seaborn for practical data analysis and visualization using real-world datasets.
+
+Status: NumPy Completed | Pandas In Progress  
+Focus: Numerical Computing & Data Analysis
