@@ -1,0 +1,11 @@
+,id,name,age,country,gender,income,tax
+0,6,Unknown,45,India,F,73000.0,20%
+1,7,Ahmed Khan,38,Unknown,M,68000.0,20%
+2,8,Rachel Lee,29,United States,F,62000.0,20%
+3,2,Jane Smith,33,Canada,F,62000.0,20%
+4,10,Emily Davis,31,United States,U,58000.0,10%
+5,1,John Doe,29,United States,M,55000.0,10%
+6,5,Li Wei,27,China,M,51000.0,10%
+7,3,Alex,33,United States,U,47000.0,10%
+8,9,Carlos Ruiz,33,Mexico,M,45000.0,10%
+9,4,Maria Garcia,34,Spain,F,0.0,10%
