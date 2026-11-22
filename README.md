@@ -49,13 +49,13 @@ It focuses on numerical computing, array manipulation, data handling, and data p
 
 ## 📈 Learning Progress
 
-- [x] NumPy Fundamentals
-- [x] Array Manipulation and Operations
-- [x] Axes and Multidimensional Arrays
-- [x] Pandas Fundamentals
-- [x] Data Manipulation and Filtering
-- [x] Data Cleaning and Preprocessing
-- [x] Grouping and Aggregation
+- [✓] NumPy Fundamentals
+- [✓] Array Manipulation and Operations
+- [✓] Axes and Multidimensional Arrays
+- [✓] Pandas Fundamentals
+- [✓] Data Manipulation and Filtering
+- [✓] Data Cleaning and Preprocessing
+- [✓] Grouping and Aggregation
 - [ ] Practical Dataset Analysis
 
 ## 🚀 Next Step
