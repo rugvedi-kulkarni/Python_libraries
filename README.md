@@ -54,8 +54,8 @@ It focuses on numerical computing, array manipulation, data handling, and data p
 - [x] Axes and Multidimensional Arrays
 - [x] Pandas Fundamentals
 - [x] Data Manipulation and Filtering
-- [ ] Data Cleaning and Preprocessing
-- [ ] Grouping and Aggregation
+- [x] Data Cleaning and Preprocessing
+- [x] Grouping and Aggregation
 - [ ] Practical Dataset Analysis
 
 ## 🚀 Next Step
