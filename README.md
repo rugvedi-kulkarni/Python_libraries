@@ -56,7 +56,7 @@ It focuses on numerical computing, array manipulation, data handling, and data p
 - [✓] Data Manipulation and Filtering
 - [✓] Data Cleaning and Preprocessing
 - [✓] Grouping and Aggregation
-- [ ] Practical Dataset Analysis
+- [✓] Practical Dataset Analysis
 
 ## 🚀 Next Step
 
